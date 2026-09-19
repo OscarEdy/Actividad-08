@@ -56,11 +56,3 @@ Para cada dominio se siguió el mismo flujo de trabajo:
 
 En los tres dominios, el criterio de enlace **`ward`** resultó ser, de forma consistente, el más exitoso —siempre que los datos se representen en un espacio numérico razonablemente denso y de dimensionalidad controlada—, mientras que **`single`** fue sistemáticamente el más débil por su sensibilidad al efecto de encadenamiento. El detalle completo de la metodología, el código y la discusión de resultados se encuentra en el notebook y en el resumen ejecutivo en PDF (formato APA 7.ª edición) incluidos en este repositorio.
 
-## Referencias
-
-- Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The elements of statistical learning: Data mining, inference, and prediction* (2.ª ed.). Springer.
-- Lang, K. (1995). Newsweeder: Learning to filter netnews. En A. Prieditis & S. Russell (Eds.), *Machine learning proceedings 1995* (pp. 331–339). Morgan Kaufmann.
-- Martin, D., Fowlkes, C., Tal, D., & Malik, J. (2001). A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics. *Proceedings of the 8th IEEE International Conference on Computer Vision, 2*, 416–423.
-- Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research, 12*, 2825–2830.
-- Rousseeuw, P. J. (1987). Silhouettes: A graphical aid to the interpretation and validation of cluster analysis. *Journal of Computational and Applied Mathematics, 20*, 53–65.
-- Ward, J. H., Jr. (1963). Hierarchical grouping to optimize an objective function. *Journal of the American Statistical Association, 58*(301), 236–244.

@@ -1,6 +1,6 @@
 # Actividad 08 (Unidad II) — Clustering Jerárquico
 
-**Curso:** Maestría en Ciencia de Datos — Aprendizaje No Supervisado / Minería de Datos
+**Maestría en Ciencia de Datos**
 **Objetivo:** Comprender el uso del agrupamiento por jerarquías (*hierarchical clustering*) aplicándolo a tres dominios: texto, segmentación de clientes y segmentación de imágenes.
 
 ## Contenido del repositorio
@@ -8,7 +8,6 @@
 | Archivo | Descripción |
 |---|---|
 | `Actividad08_Clustering_Jerarquico.ipynb` | Cuaderno de Google Colab con el código completo, comentado y ejecutable de las tres partes de la actividad. |
-| `Resumen_Ejecutivo_Actividad08_APA7.pdf` | Resumen ejecutivo en formato APA 7.ª edición (portada, resumen, cuerpo, tabla comparativa y referencias). |
 | `README.md` | Este archivo. |
 
 ## Cómo ejecutar el notebook
